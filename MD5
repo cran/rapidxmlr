@@ -1,0 +1,12 @@
+4b8509d03b3622daf97a8ef415d44c44 *DESCRIPTION
+ed137a332707ab06ef0802facefcc8ed *LICENSE
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+551347ffd32229c1b8f78ce4f3700b58 *R/rapidxmlr-package.R
+2a5e7c578a2034fc9c29d68d1d39fc0d *README.md
+a977d57ca3288e1c0d30f4c29eacf5e6 *inst/COPYRIGHTS
+d63ab70ba21ca0544b03284958324301 *inst/include/license.txt
+7be4c8de2cb1051194eeef98858193fb *inst/include/rapidxml.hpp
+ef205af350717299720ecf6d08dc4769 *inst/include/rapidxml_iterators.hpp
+846a946329399b76e49d4d0dde9f3384 *inst/include/rapidxml_print.hpp
+a1f2ed31fae2737e7e6216d09aa19fbe *inst/include/rapidxml_utils.hpp
+58d8a86e7604a03730d32af751dff724 *man/rapidxmlr-package.Rd
